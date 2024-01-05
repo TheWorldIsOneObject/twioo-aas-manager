@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2023-12-22T14:49:53.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="KGQG8tfm_ISU3nR8xYfv" version="22.0.2" type="device">
+  <diagram name="Page-1" id="D7hvDBeQCgrzWOwhlF8H">
+    <mxGraphModel dx="2183" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XlfJM_QAs5aqK0XGVi1S-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="280" width="1280" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="XlfJM_QAs5aqK0XGVi1S-3" value="MENÜ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="280" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XlfJM_QAs5aqK0XGVi1S-4" value="Free for Text" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="280" width="810" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XlfJM_QAs5aqK0XGVi1S-6" value="File Explorer&lt;br&gt;to show current dir to user" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="350" width="620" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XlfJM_QAs5aqK0XGVi1S-8" value="Search Bar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XlfJM_QAs5aqK0XGVi1S-9" value="Save selected AAS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="232.5" y="910" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XlfJM_QAs5aqK0XGVi1S-10" value="current Path of dir" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="360" width="535" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yIEJorFvAX6SHgUZGXe4-1" value="Filename - input field" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="590" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

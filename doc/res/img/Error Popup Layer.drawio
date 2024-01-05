@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2023-12-22T13:57:18.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="Y7HceeZGq4xN8wNuEEcL" version="22.0.2" type="device">
+  <diagram name="Page-1" id="7GPPvrv0ORBwOxh0rgOQ">
+    <mxGraphModel dx="2278" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MgRUfh-31dNWspnB98ga-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="80" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-4" value="Show Console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="195" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-5" value="OK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="195" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-7" value="AAS changes not saved!&lt;br&gt;Do you want to save?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="80" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-8" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="195" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-9" value="No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="195" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-10" value="Cancel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="195" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-12" value="OK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="195" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-13" value="Create Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="195" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="125" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-14" value="&lt;h1&gt;ERROR&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="80" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-17" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="150" y="165" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="125" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-18" value="&lt;h1&gt;Notification&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MgRUfh-31dNWspnB98ga-21" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="490" y="165" width="10" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,16 @@
+# java build files on windows systems
+app/aas-manager/target/
+
+# java code from the internet
+app/aas-manager/src/main/java/com/theworldisoneobject/aasmanager/internetSources/
+
+# TemporaryFiles
+Boilerplate*
+test.*
+
+# vscode workspace configuration
+.vscode/
+
+# draw.io diagrams realted files
+*.bkp
+*.dtmp
